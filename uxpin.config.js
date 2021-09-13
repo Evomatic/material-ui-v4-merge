@@ -5,6 +5,8 @@ module.exports = {
         name: 'General',
         include: [
           'src/components/Button/Button.js',
+          'src/components/ButtonGroup/ButtonGroup.js',
+          'src/components/Checkbox/Checkbox.js',
         ],
       },
     ],
