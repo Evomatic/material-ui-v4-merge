@@ -4,6 +4,6 @@ import Icon from '../../Icon/Icon';
 
 export default (
   <Fab uxpId="1" label="navigation" variant="extended" color="primary">
-    <Icon uxpId="2">Navigation</Icon>
+    <Icon uxpId="2">navigation</Icon>
   </Fab>
 );
