@@ -8,6 +8,13 @@ module.exports = {
           'src/components/ButtonGroup/ButtonGroup.js',
           'src/components/Checkbox/Checkbox.js',
           'src/components/Radio/Radio.js',
+          'src/components/Fab/Fab.js',
+        ],
+      },
+      { 
+        name: 'Data Dispaly',
+        include: [
+          'src/components/Icon/Icon.js',
         ],
       },
     ],
