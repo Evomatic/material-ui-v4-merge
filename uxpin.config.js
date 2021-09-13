@@ -9,6 +9,7 @@ module.exports = {
           'src/components/Checkbox/Checkbox.js',
           'src/components/Radio/Radio.js',
           'src/components/Fab/Fab.js',
+          'src/components/TextField/TextField.js',
         ],
       },
       { 
