@@ -2,7 +2,7 @@ module.exports = {
   components: {
     categories: [
       {
-        name: 'General',
+        name: 'Inputs',
         include: [
           'src/components/Button/Button.js',
           'src/components/ButtonGroup/ButtonGroup.js',
