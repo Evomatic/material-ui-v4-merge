@@ -16,6 +16,7 @@ module.exports = {
         name: 'Data Dispaly',
         include: [
           'src/components/Icon/Icon.js',
+          'src/components/Avatar/Avatar.js',
         ],
       },
     ],
@@ -24,3 +25,6 @@ module.exports = {
   },
   name: 'material-ui-v4-merge'
 };
+
+
+
