@@ -10,12 +10,15 @@ module.exports = {
           'src/components/Radio/Radio.js',
           'src/components/Fab/Fab.js',
           'src/components/TextField/TextField.js',
+          // 'src/components/Select/Select.js',
         ],
       },
       { 
         name: 'Data Dispaly',
         include: [
           'src/components/Icon/Icon.js',
+          'src/components/Avatar/Avatar.js',
+          'src/components/Typography/Typography.js',
         ],
       },
     ],
@@ -24,3 +27,6 @@ module.exports = {
   },
   name: 'material-ui-v4-merge'
 };
+
+
+
