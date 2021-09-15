@@ -10,6 +10,7 @@ module.exports = {
           'src/components/Radio/Radio.js',
           'src/components/Fab/Fab.js',
           'src/components/TextField/TextField.js',
+          // 'src/components/Select/Select.js',
         ],
       },
       { 
@@ -17,6 +18,7 @@ module.exports = {
         include: [
           'src/components/Icon/Icon.js',
           'src/components/Avatar/Avatar.js',
+          'src/components/Typography/Typography.js',
         ],
       },
     ],
