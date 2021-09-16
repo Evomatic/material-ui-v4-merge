@@ -11,6 +11,7 @@ module.exports = {
           'src/components/IconButton/IconButton.js',
           'src/components/Radio/Radio.js',
           // 'src/components/Select/Select.js',
+          'src/components/Switch/Switch.js',
           'src/components/TextField/TextField.js',
         ],
       },
