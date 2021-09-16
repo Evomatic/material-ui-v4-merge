@@ -8,3 +8,5 @@ export default function UXPinWrapper({ children }) {
   document.head.appendChild(icons);
   return children;
 }
+
+
